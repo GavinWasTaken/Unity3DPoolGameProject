@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 98c784393dd7615458a62baf70ab1383
+timeCreated: 1492825711
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BallRack
+    100002: Bed
+    100004: Caushion2
+    100006: Circle
+    100008: Circle.001
+    100010: Circle.002
+    100012: CornerMetalCovers
+    100014: CornerPockets
+    100016: Cube
+    100018: Cube.002
+    100020: Cushion
+    100022: Cylinder
+    100024: Cylinder.002
+    100026: Plane.003
+    100028: Plane.004
+    100030: Plane.005
+    100032: Plane.006
+    100034: //RootNode
+    100036: SideMetalCover
+    100038: SidePockets
+    100040: Table
+    400000: BallRack
+    400002: Bed
+    400004: Caushion2
+    400006: Circle
+    400008: Circle.001
+    400010: Circle.002
+    400012: CornerMetalCovers
+    400014: CornerPockets
+    400016: Cube
+    400018: Cube.002
+    400020: Cushion
+    400022: Cylinder
+    400024: Cylinder.002
+    400026: Plane.003
+    400028: Plane.004
+    400030: Plane.005
+    400032: Plane.006
+    400034: //RootNode
+    400036: SideMetalCover
+    400038: SidePockets
+    400040: Table
+    2300000: BallRack
+    2300002: Bed
+    2300004: Caushion2
+    2300006: Circle
+    2300008: Circle.001
+    2300010: Circle.002
+    2300012: CornerMetalCovers
+    2300014: CornerPockets
+    2300016: Cube
+    2300018: Cube.002
+    2300020: Cushion
+    2300022: Cylinder
+    2300024: Cylinder.002
+    2300026: Plane.003
+    2300028: Plane.004
+    2300030: Plane.005
+    2300032: Plane.006
+    2300034: SideMetalCover
+    2300036: SidePockets
+    2300038: Table
+    3300000: BallRack
+    3300002: Bed
+    3300004: Caushion2
+    3300006: Circle
+    3300008: Circle.001
+    3300010: Circle.002
+    3300012: CornerMetalCovers
+    3300014: CornerPockets
+    3300016: Cube
+    3300018: Cube.002
+    3300020: Cushion
+    3300022: Cylinder
+    3300024: Cylinder.002
+    3300026: Plane.003
+    3300028: Plane.004
+    3300030: Plane.005
+    3300032: Plane.006
+    3300034: SideMetalCover
+    3300036: SidePockets
+    3300038: Table
+    4300000: Circle.002
+    4300002: Circle.001
+    4300004: Table
+    4300006: Plane.006
+    4300008: Plane.005
+    4300010: Plane.004
+    4300012: Plane.003
+    4300014: Cylinder.002
+    4300016: BallRack
+    4300018: Cube.002
+    4300020: Bed
+    4300022: Circle
+    4300024: SidePockets
+    4300026: CornerPockets
+    4300028: SideMetalCover
+    4300030: Cylinder
+    4300032: Cube
+    4300034: CornerMetalCovers
+    4300036: Cushion
+    4300038: Caushion2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
